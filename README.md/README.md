@@ -231,12 +231,13 @@ This project answers business questions such as:
 ---
 
 # 👨‍💻 Author
-
 **Hossein Aleinejad**
 
 Data Analyst | BI Developer | SQL Server | Power BI
-
 GitHub
-
 https://github.com/alaeinejad
+
+## Power BI File
+
+The Power BI (.pbix) file exceeds GitHub's file size limit and is therefore not included in this repository. Dashboard screenshots are provided above.
 
